@@ -10,8 +10,8 @@ This fruit machine was developed for an assessment during my first year at Abert
 
 # How to play
 
-Download the ZIP file stored in the repository
-Extract all files into a seperate folder
-Import project into Visual Studio 2019    
-Open the "Slot_Machine.cpp" file
-Hit the big green "Run" button
+* Download the ZIP file stored in the repository
+* Extract all files into a seperate folder
+* Import project into Visual Studio 2019    
+* Open the "Slot_Machine.cpp" file
+* Hit the big green "Run" button
